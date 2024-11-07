@@ -1,0 +1,17 @@
+.home {
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+}
+
+.blue {
+  background-color: rgb(0, 59, 252);
+  padding: 20px;
+  text-align: center;
+}
+
+.red {
+  background-color: rgb(170, 7, 7);
+  padding: 20px;
+  text-align: center;
+}

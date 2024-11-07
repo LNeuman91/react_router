@@ -1,0 +1,59 @@
+/* Styles for the main container */
+#container {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Navbar styles */
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Adds space between links */
+  padding: 10px;
+  background-color: #f0f0f0;
+}
+
+/* Style for each link in the navbar */
+.nav-link {
+  text-decoration: none;
+  color: #333;
+  font-size: 1.2em;
+}
+
+/* Hover effect for navbar links */
+.nav-link:hover {
+  color: #007bff;
+}
+
+/* Full page styles for Blue and Red components */
+.full-page {
+  min-height: 100vh;          /* Full viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 2em;
+}
+
+/* Background color for Blue component */
+.blue {
+  background-color: blue;
+}
+
+/* Background color for Red component */
+.red {
+  background-color: red;
+}
+
+/* Full-page style for Home component */
+.home {
+  background-color: lightblue; /* Light blue background for the entire page */
+  min-height: 100vh;           /* Full viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  color: white;
+  font-size: 2em;
+}
+
